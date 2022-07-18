@@ -1,2 +1,0 @@
-# amadeus-mozz
-Begin app
